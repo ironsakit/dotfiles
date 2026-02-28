@@ -6,7 +6,7 @@
 
 Benvenuto! Questo repository contiene la mia configurazione personale di **Emacs**, ottimizzata specificamente per la programmazione in **C** su ambiente Windows.
 
-L'obiettivo è trasformare il classico Emacs in un IDE moderno, leggero e pronto all'uso, risolvendo i classici problemi dei terminali integrati.
+Non ho messo un granchè ma volevo condividere con gli altri utenti la mia configurazione, magari per aiutarmi a migliorarla, grazie mille a tutti.
 
 ---
 
@@ -19,14 +19,14 @@ L'obiettivo è trasformare il classico Emacs in un IDE moderno, leggero e pronto
 
 ---
 
-## ⌨️ Scorciatoie Personalizzate (I miei Superpoteri)
+## ⌨️ Scorciatoie Personalizzate
 
-Ho scritto alcune funzioni in *Emacs Lisp* per velocizzare il flusso di lavoro. Ecco i tasti magici:
+Ho scritto alcune funzioni in *Emacs Lisp* per velocizzare il lavoro:
 
 | Tasto | Azione | Descrizione |
 | :---: | :--- | :--- |
-| **`F5`** | 🚀 **Compila ed Esegui** | Salva il file `.c` corrente, lo compila con `gcc` e lo lancia in una **vera finestra CMD nativa** di Windows. Perfetto per usare `scanf` senza bloccare l'editor! |
-| **`F6`** | 🧹 **Auto-Format** | Riordina e indenta automaticamente tutto il codice del file corrente in un solo colpo. |
+| **`F5`** | 🚀 **Compila ed Esegui** | Salva il file `.c` corrente, lo compila con `gcc` e lo lancia in una **vera finestra CMD nativa** di Windows. |
+| **`F6`** | 🧹 **Auto-Format** | Riordina e indenta automaticamente tutto il codice del file corrente. |
 
 ---
 
