@@ -10,7 +10,7 @@ Non ho messo un granchè ma volevo condividere con gli altri utenti la mia confi
 
 ---
 
-## ✨ Funzionalità Principali
+## Funzionalità Principali
 
 *  **Gestione Pacchetti:** Download e installazione automatica (tramite MELPA) al primo avvio. Non serve scaricare nulla a mano!
 *  **Company-mode:** Autocompletamento del codice intelligente in tempo reale.
