@@ -12,25 +12,25 @@ Non ho messo un granchè ma volevo condividere con gli altri utenti la mia confi
 
 ## ✨ Funzionalità Principali
 
-* 📦 **Gestione Pacchetti:** Download e installazione automatica (tramite MELPA) al primo avvio. Non serve scaricare nulla a mano!
-* 🧠 **Company-mode:** Autocompletamento del codice intelligente in tempo reale.
-* 🐛 **Flycheck:** Controllo degli errori di sintassi istantaneo (ti avvisa prima ancora di compilare).
-* 🎨 **UI Pulita:** Tema *Leuven-dark*, numeri di riga attivi, evidenziazione della riga corrente e parentesi automatiche.
+*  **Gestione Pacchetti:** Download e installazione automatica (tramite MELPA) al primo avvio. Non serve scaricare nulla a mano!
+*  **Company-mode:** Autocompletamento del codice intelligente in tempo reale.
+*  **Flycheck:** Controllo degli errori di sintassi istantaneo (ti avvisa prima ancora di compilare).
+*  **UI Pulita:** Tema *Leuven-dark*, numeri di riga attivi, evidenziazione della riga corrente e parentesi automatiche.
 
 ---
 
-## ⌨️ Scorciatoie Personalizzate
+## Scorciatoie Personalizzate
 
 Ho scritto alcune funzioni in *Emacs Lisp* per velocizzare il lavoro:
 
 | Tasto | Azione | Descrizione |
 | :---: | :--- | :--- |
-| **`F5`** | 🚀 **Compila ed Esegui** | Salva il file `.c` corrente, lo compila con `gcc` e lo lancia in una **vera finestra CMD nativa** di Windows. |
-| **`F6`** | 🧹 **Auto-Format** | Riordina e indenta automaticamente tutto il codice del file corrente. |
+| **`F5`** | **Compila ed Esegui** | Salva il file `.c` corrente, lo compila con `gcc` e lo lancia in una **vera finestra CMD nativa** di Windows. |
+| **`F6`** | **Auto-Format** | Riordina e indenta automaticamente tutto il codice del file corrente. |
 
 ---
 
-## 📥 Come usarlo (Installazione)
+## Come usarlo (Installazione)
 
 Se vuoi provare questa configurazione sul tuo PC, ti basta avere Git ed Emacs installati, e poi lanciare questo comando dal terminale:
 
