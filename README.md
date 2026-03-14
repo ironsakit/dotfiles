@@ -10,7 +10,7 @@ Non ho messo un granchè ma volevo condividere con gli altri utenti la mia confi
 
 ---
 
-## Funzionalità Principali
+## 1) Funzionalità Principali
 
 *  **Gestione Pacchetti:** Download e installazione automatica (tramite MELPA) al primo avvio. Non serve scaricare nulla a mano!
 *  **Company-mode:** Autocompletamento del codice intelligente in tempo reale.
@@ -19,7 +19,7 @@ Non ho messo un granchè ma volevo condividere con gli altri utenti la mia confi
 
 ---
 
-## Scorciatoie Personalizzate
+## 2) Scorciatoie Personalizzate
 
 Ho scritto alcune funzioni in *Emacs Lisp* per velocizzare il lavoro:
 
@@ -30,7 +30,7 @@ Ho scritto alcune funzioni in *Emacs Lisp* per velocizzare il lavoro:
 
 ---
 
-## Come usarlo (Installazione)
+## 3) Come usarlo (Installazione)
 
 Se vuoi provare questa configurazione sul tuo PC, ti basta avere Git ed Emacs installati, e poi lanciare questo comando dal terminale:
 
